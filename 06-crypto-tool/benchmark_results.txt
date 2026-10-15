@@ -1,0 +1,7 @@
+﻿=== NovaTech Cryptographic Performance Benchmark ===
+SHA-256 (10k ops): 0.1921s
+HMAC-SHA256 (10k ops): 0.2027s
+AES-128-GCM (5k enc/dec): 0.0105s
+AES-256-GCM (5k enc/dec): 0.0108s
+RSA-2048 Sign: 0.0011s | Verify: 0.0000s
+ECC-SECP256R1 Sign: 0.0068s | Verify: 0.0001s
