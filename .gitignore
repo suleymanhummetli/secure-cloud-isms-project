@@ -1,8 +1,14 @@
-*.pem
+﻿# Audit outputs and raw files
+output/
+screenshots/
+*.csv
+*.json
+*.html
+
+# Sensitive keys and Terraform states
 *.key
+*.pem
 *.tfstate
 *.tfstate.backup
-.terraform/
 .env
-credentials
-07-audit/raw-before/
+.DS_Store
