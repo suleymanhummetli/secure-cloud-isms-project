@@ -1,11 +1,7 @@
-﻿# Audit outputs and raw files
+# Raw Prowler output (böyük fayllar və hesabatlar)
 output/
-screenshots/
-*.csv
-*.json
-*.html
 
-# Sensitive keys and Terraform states
+# Açarlar və state faylları
 *.key
 *.pem
 *.tfstate
