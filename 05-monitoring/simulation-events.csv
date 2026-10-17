@@ -1,0 +1,6 @@
+﻿"TimeUtc","EventId","Result","Error"
+"2026-10-17T16:19:55Z","039aa422-8e95-4cea-9393-28d498ef370f","Failure","Failed authentication"
+"2026-10-17T16:19:58Z","70b1880a-ea82-4056-96c6-c27c9e612855","Failure","Failed authentication"
+"2026-10-17T16:20:01Z","5be2f2ae-67f3-4f36-8cf7-4779409e17e2","Failure","Failed authentication"
+"2026-10-17T16:20:03Z","380bb301-606b-4eb1-97c2-db2b4a501d81","Failure","Failed authentication"
+"2026-10-17T16:20:05Z","0d4d3c28-6176-4d4b-b00e-4be68b9a7050","Failure","Failed authentication"
