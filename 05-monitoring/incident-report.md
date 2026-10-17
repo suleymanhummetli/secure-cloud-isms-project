@@ -71,7 +71,7 @@ No containment was needed because the event was a simulation. The response proce
 4. Review GuardDuty findings for the same period.
 5. Record the incident and lessons learned.
 
-The weak test account will be deleted in the cleanup phase, which also removes the "console access without MFA" audit finding.
+The weak test account was deleted on 2026-10-17 after the evidence was collected, which also removes the "console access without MFA" audit finding.
 
 ## 6. Lessons learned
 
